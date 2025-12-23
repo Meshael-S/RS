@@ -15,4 +15,5 @@ We have performed the following preprocessing and adaptations to suit the needs 
 We utilized a sample of 20,883 reviews -driven from 1,148 distinct users and 14,569 businesses.
 The key features—user ID, business ID, and rating—were aligned with our primary analysis.
 
-### RBM implementation
+### NCF implementation
+This notebook implements Neural Collaborative Filtering (NCF), which is an innovative algorithm based on deep neural networks to tackle the key problem in recommendation — collaborative filtering — on the basis of implicit feedback.
